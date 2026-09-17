@@ -86,7 +86,7 @@ body {
 }
 
 .parallax {
-    background-image: url('./https://static.vecteezy.com/system/resources/thumbnails/047/152/675/small/wooden-tabletop-with-bokeh-light-effects-on-a-blurred-restaurant-backdrop-photo.jpg'); 
+    background-image: url('https://static.vecteezy.com/system/resources/thumbnails/047/152/675/small/wooden-tabletop-with-bokeh-light-effects-on-a-blurred-restaurant-backdrop-photo.jpg'); 
     height: 100vh;
     background-attachment: fixed;
     background-position: center;
